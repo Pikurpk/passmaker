@@ -1,0 +1,6 @@
+import random   => pip install random
+import string	=> pip install string
+import os	=> pip install os
+import datetime => pip install datetime
+import time	=> pip install time
+import pyfiglet => pip install pyfiglet
